@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing predictive models using machine learning to analyze and interpret complex data sets.
 - 🌱 I’m currently learning advanced statistical methods and deep learning techniques to enhance my data analytics skills.
-- 📫 How to reach me: You can drop me a message on my LinkedIn profile or email me at pantangi.m@northeastern.edu
+- 📫 How to reach me: You can drop me a message on my LinkedIn profile or email me at mann.gajjar02@gmail.com
 
 
 
